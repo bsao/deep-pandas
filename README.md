@@ -1,7 +1,4 @@
-# caipyra 2016
+# deep pandas 2016
 
 * install docker
 * execute setup.sh
-
-
-# deep-pandas
